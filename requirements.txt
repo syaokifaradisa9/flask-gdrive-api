@@ -1,0 +1,6 @@
+numpy==1.25.2
+Pillow==10.0.0
+python-dotenv==1.0.0
+pymupdf==1.23.3
+google-api-python-client==2.97.0
+flask==2.3.3
